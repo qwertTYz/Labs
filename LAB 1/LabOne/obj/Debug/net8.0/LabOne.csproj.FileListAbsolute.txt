@@ -1,0 +1,14 @@
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.AssemblyInfo.cs
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\LabOne\bin\Debug\net8.0\LabOne.exe
+C:\Users\danii\Desktop\LabOne\bin\Debug\net8.0\LabOne.deps.json
+C:\Users\danii\Desktop\LabOne\bin\Debug\net8.0\LabOne.runtimeconfig.json
+C:\Users\danii\Desktop\LabOne\bin\Debug\net8.0\LabOne.dll
+C:\Users\danii\Desktop\LabOne\bin\Debug\net8.0\LabOne.pdb
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.dll
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\refint\LabOne.dll
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.pdb
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\LabOne.genruntimeconfig.cache
+C:\Users\danii\Desktop\LabOne\obj\Debug\net8.0\ref\LabOne.dll

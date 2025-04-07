@@ -1,0 +1,22 @@
+C:\Users\danii\Desktop\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.deps.json
+C:\Users\danii\Desktop\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.dll
+C:\Users\danii\Desktop\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.pdb
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.AssemblyInfo.cs
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.dll
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\refint\LabOneLibrary.dll
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.pdb
+C:\Users\danii\Desktop\LabOneLibrary\obj\Debug\net8.0\ref\LabOneLibrary.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.deps.json
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\bin\Debug\net8.0\LabOneLibrary.pdb
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.AssemblyInfo.cs
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\refint\LabOneLibrary.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\LabOneLibrary.pdb
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1\LabOneLibrary\obj\Debug\net8.0\ref\LabOneLibrary.dll

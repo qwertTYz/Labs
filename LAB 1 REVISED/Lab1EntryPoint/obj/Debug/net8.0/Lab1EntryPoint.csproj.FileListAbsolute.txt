@@ -1,0 +1,14 @@
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\bin\Debug\net8.0\Lab1EntryPoint.exe
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\bin\Debug\net8.0\Lab1EntryPoint.deps.json
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\bin\Debug\net8.0\Lab1EntryPoint.runtimeconfig.json
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\bin\Debug\net8.0\Lab1EntryPoint.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\bin\Debug\net8.0\Lab1EntryPoint.pdb
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.AssemblyInfo.cs
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\refint\Lab1EntryPoint.dll
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.pdb
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\Lab1EntryPoint.genruntimeconfig.cache
+C:\Users\danii\Desktop\MULTITHREAD\LAB 1 REVISED\Lab1EntryPoint\obj\Debug\net8.0\ref\Lab1EntryPoint.dll
