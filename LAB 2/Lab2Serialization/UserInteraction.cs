@@ -30,19 +30,17 @@ public class UserInteraction
             ConsoleKeyInfo cki = Console.ReadKey();
             switch (cki.Key)
             {
-                // 10 objects
                 case ConsoleKey.A:
                     objects = new Logic().MakeTen();
                     if (objects is not null) foreach (var temp in objects) Console.WriteLine(temp);
                     
                     break;
-                // serialize
                 case ConsoleKey.S:
                     if (objects[0] != null && objects != null)
                     {
                         try
                         {
-                            string rootElementName = $"{objects[0].GetType().Name}s";  // Car+s
+                            string rootElementName = $"{objects[0].GetType().Name}s";
                             xDocument = new Logic().SerializeTen(rootElementName, path, objects);
                             Console.WriteLine("\n" + xDocument);
                         }
@@ -53,11 +51,9 @@ public class UserInteraction
                     }
                     else Console.WriteLine("\ncreate objects first");
                     break;
-                // deserialize
                 case ConsoleKey.D:
                     new Logic().DeserializeTen(path);
                     break;
-                // model  xDoc
                 case ConsoleKey.M:
                     try
                     {
@@ -68,7 +64,6 @@ public class UserInteraction
                         Console.WriteLine(ex.ToString());
                     }
                     break;
-                // model  xmlDoc
                 case ConsoleKey.N:
                     try
                     {
@@ -79,7 +74,6 @@ public class UserInteraction
                         Console.WriteLine(ex.ToString());
                     }
                     break;
-                // task 3 xDoc
                 case ConsoleKey.J:
                     Console.Write("\nattribute: ");
                     string attributeName = Console.ReadLine();
@@ -89,7 +83,6 @@ public class UserInteraction
                     string newValue = Console.ReadLine();
                     new Logic().Task3XDoc(path, attributeName, elementIndex, newValue);
                     break;
-                // task 3 xmlDoc    
                 case ConsoleKey.K:
                     Console.Write("\nattribute: ");
                     string attributeNameXml = Console.ReadLine();
@@ -99,7 +92,6 @@ public class UserInteraction
                     string newValueXml = Console.ReadLine();
                     new Logic().Task3XmlDoc(path, attributeNameXml, elementIndexXml, newValueXml);
                     break;
-                //exit
                 case ConsoleKey.X:
                     return;
                 default:

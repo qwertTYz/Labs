@@ -56,31 +56,17 @@ namespace Lab2Serialization
             return xDoc;
         }
 
-        public void DeserializeTen(/*XDocument xDoc*/string path)
-        {
-            //xDoc.Descendants()
-            
+        public void DeserializeTen(string path)
+        {            
             XDocument xDoc = XDocument.Load(path);
             foreach (XElement node in xDoc.Root.Descendants())
             {
                 if (node.NodeType != XmlNodeType.Document) Console.WriteLine(node.Value);
             }
-            //object[] objects = new object[10];
-            //using (XmlReader reader = xDoc.CreateReader())
-            //{
-            //    while (reader.Read())
-            //    {
-            //        if (reader.NodeType == XmlNodeType.Element)
-            //        {
-            //            Console.WriteLine(reader.Name);
-            //        }
-            //    }
-            //}
         }
 
         public void ShowModelXDoc(string path)
-        {
-           
+        {           
             XDocument xDoc = XDocument.Load(path);
             foreach (XElement node in xDoc.Root.Descendants())
             {
@@ -90,7 +76,6 @@ namespace Lab2Serialization
 
         public void ShowModelXmlDoc(string path)
         {
-
             XmlDocument xmlDoc = new XmlDocument();
 
             XDocument xDoc = XDocument.Load(path);
@@ -109,10 +94,6 @@ namespace Lab2Serialization
                     }
                 }
             }
-            //foreach (XElement node in xDoc.Root.Descendants())
-            //{
-            //    if (node.Name == "Model") Console.WriteLine(node.Value);
-            //}
         }
 
         public void Task3XDoc(string path, string elementName, int elementIndex, string newValue)
@@ -164,8 +145,5 @@ namespace Lab2Serialization
             }
             else Console.WriteLine("invalid index");
         }
-
-
-
     }
 }
